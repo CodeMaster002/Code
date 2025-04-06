@@ -1,5 +1,4 @@
-# Code
-Для школы 
+# Code 
 <!DOCTYPE html>
 <html lang="ru">
 <head>
